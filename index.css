@@ -18,7 +18,7 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  background-image: url("photo_2025-01-20_14-38-12\ \(2\).jpg"); /* Background image */
+  background-image: url(""); /* Background image */
   background-size: cover; /* Make the image cover the whole viewport */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent tiling */
